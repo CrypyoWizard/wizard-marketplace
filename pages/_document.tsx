@@ -24,7 +24,7 @@ class MyDocument extends Document {
         <meta name="keywords" content="nft, ethereum, protocol" />
         <link rel="shortcut icon" type="image/svg" href="/reservoir.svg" />
         <title>
-          Reservoir Market | Open source NFT marketplace powered by Reservoir
+          AfroDroids Market | Community NFT marketplace
           Protocol
         </title>
         <meta
@@ -36,23 +36,23 @@ class MyDocument extends Document {
         {/* The optimal size is 1200 x 630 (1.91:1 ratio). */}
         <meta
           name="twitter:image"
-          content="https://www.reservoir.market/og.png"
+          content="https://gateway.pinata.cloud/ipfs/QmRVRj7WyCuZpJPSjUiBWxMpVgGsJydEJdWXa6ekVEGHrd"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:site:domain"
-          content="https://www.reservoir.market/"
+          content="https://www.afrodroids.market/"
         />
-        <meta name="twitter:url" content="https://www.reservoir.market/" />
+        <meta name="twitter:url" content="https://www.afrodroids.market/" />
         {/* should be between 30-60 characters, with a maximum of 70 */}
         <meta
           name="twitter:title"
-          content="Reservoir Market | Open source NFT marketplace powered by Reservoir Protocol"
+          content="AfroDroids Market | Community NFT marketplace!"
         />
         {/* should be between 55 and 200 characters long */}
         <meta
           name="twitter:description"
-          content="Reservoir Market is an open source NFT marketplace powered by Reservoir"
+          content="AfroDroids Market is a community marketplace powered by Crypto Wizard"
         />
         <meta name="twitter:site" content="@reservoir0x" />
 
@@ -61,7 +61,7 @@ class MyDocument extends Document {
         {/* should be between 30-60 characters, with a maximum of 90 */}
         <meta
           name="og:title"
-          content="Reservoir Market | Open source NFT marketplace powered by Reservoir Protocol"
+          content="AfroDroids Market |  NFT marketplace powered by Crypto Wizard"
         />
         <meta property="og:type" content="website" />
         <meta property="og:determiner" content="the" />
@@ -69,10 +69,10 @@ class MyDocument extends Document {
         {/* Make sure the important part of your description is within the first 110 characters, so it doesn't get cut off on mobile. */}
         <meta
           property="og:description"
-          content="Reservoir Market is an open source NFT marketplace powered by Reservoir"
+          content="AfroDroids Market |  NFT marketplace powered by Crypto Wizard"
         />
-        <meta property="og:site_name" content="Reservoir Market" />
-        <meta property="og:url" content="https://www.reservoir.market/" />
+        <meta property="og:site_name" content="AfroDroids Market" />
+        <meta property="og:url" content="https://www.afrofroids.market/" />
         {/* The optimal size is 1200 x 630 (1.91:1 ratio). */}
         <meta
           property="og:image"
@@ -81,7 +81,7 @@ class MyDocument extends Document {
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="1280" />
         <meta property="og:image:height" content="640" />
-        <meta property="og:image:alt" content="Reservoir Market banner" />
+        <meta property="og:image:alt" content="AfroDroids Market banner" />
         <body className="bg-white text-neutral-800">
           <Main />
           <NextScript />
