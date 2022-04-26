@@ -29,7 +29,7 @@ class MyDocument extends Document {
         </title>
         <meta
           name="description"
-          content="Reservoir Market is an open source NFT marketplace powered by Reservoir"
+          content="AfroDroids Market is a community marketplace powered by Crypto Wizard"
         />
         <meta name="keywords" content="NFT, API, Protocol" />
         {/* Twitter */}
@@ -76,7 +76,7 @@ class MyDocument extends Document {
         {/* The optimal size is 1200 x 630 (1.91:1 ratio). */}
         <meta
           property="og:image"
-          content="https://www.reservoir.market/og.png"
+          content="https://gateway.pinata.cloud/ipfs/QmWXfMP5Nx2qbyqGkg836Ghxcu4VGQM7Xu7qqpLeBcQC5s"
         />
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="1280" />
